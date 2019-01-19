@@ -14,3 +14,6 @@ writed by MirrorX
 new branch dev
 ======
 merge dev
+
+======
+now a bug comes,i must use git stash to save my working space
